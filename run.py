@@ -32,5 +32,5 @@ df = df.drop([0])
 df = df.reset_index(drop=True)
 print(df)
 
-print(data_info.splitlines())
 data_info = data_info.splitlines()
+print(data_info)
