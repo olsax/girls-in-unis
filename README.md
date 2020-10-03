@@ -5,8 +5,9 @@ The data was taken from [Domain Knowledge Bases](http://swaid.stat.gov.pl/en/Edu
 
 Current list of steps:
 1. Read&clean the data
-2. Create multiple lines plot
+2. Create multiple lines chart
 3. Create barplot
+4. Create radar chart
 
 ### Language
 Python 3.x
