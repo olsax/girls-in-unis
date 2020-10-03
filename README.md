@@ -5,7 +5,8 @@ The data was taken from [Domain Knowledge Bases](http://swaid.stat.gov.pl/en/Edu
 
 Current list of steps:
 1. Read&clean the data
-2. 
+2. Create multiple lines plot
+3. Create barplot
 
 ### Language
 Python 3.x
